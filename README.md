@@ -11,6 +11,9 @@ Latihan3
 Latihan4
 ![alt text](https://github.com/Zerr1choHelsa/Jobsheet2/blob/master/latihan4.PNG)
 <br>
+Praktikum Biodata
+![alt text](https://github.com/Zerr1choHelsa/Jobsheet2/blob/master/Praktikum2.PNG)
+<br>
 PraktikumBola
 ![alt text](https://github.com/Zerr1choHelsa/Jobsheet2/blob/master/PraktikBola.PNG)
 
