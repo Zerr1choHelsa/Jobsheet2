@@ -10,3 +10,7 @@ Latihan3
 <br>
 Latihan4
 ![alt text](https://github.com/Zerr1choHelsa/Jobsheet2/blob/master/latihan4.PNG)
+<br>
+PraktikumBola
+![alt text](https://github.com/Zerr1choHelsa/Jobsheet2/blob/master/PraktikBola.PNG)
+
